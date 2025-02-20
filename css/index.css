@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+h1{
+    font-family: "Times New Roman", Times, Baskerville, Georgia, serif;
+    font-size: 3rem;
+    color: white;
+    text-align: center;
+    margin-top: 5%;
+}
+img{
+    width: 35%;
+    margin-left: 32%;
+    margin-right: 25%;
+    margin-top: 2%;
+}
+iframe{
+    width: 35%;
+    margin-left: 32%;
+    margin-right: 25%;
+    margin-top: 2%;
+    margin-bottom: 5%;
+}
